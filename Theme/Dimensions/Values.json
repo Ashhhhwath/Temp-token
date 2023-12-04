@@ -109,12 +109,20 @@
         "value": "{BorderRadius.Core.full}",
         "type": "dimension"
       },
-      "Input field": {
-        "value": "{BorderRadius.Core.16}",
+      "Input field L": {
+        "value": "{BorderRadius.Core.12}",
         "type": "dimension"
       },
-      "Input dropdown": {
-        "value": "{BorderRadius.Core.16}",
+      "Input field S": {
+        "value": "{BorderRadius.Core.8}",
+        "type": "dimension"
+      },
+      "Input dropdown L": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Input dropdown S": {
+        "value": "{BorderRadius.Core.8}",
         "type": "dimension"
       },
       "Input date": {
@@ -161,8 +169,12 @@
         "value": "{BorderRadius.Core.24}",
         "type": "dimension"
       },
-      "Search trigger": {
-        "value": "{BorderRadius.Core.16}",
+      "Search trigger L": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Search trigger S": {
+        "value": "{BorderRadius.Core.8}",
         "type": "dimension"
       },
       "Selector": {
