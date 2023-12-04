@@ -1,0 +1,54 @@
+{
+  "Background": {
+    "Default": {
+      "value": "{Neutrals.Grey-0}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-10}",
+      "type": "color"
+    },
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-20}",
+      "type": "color"
+    }
+  },
+  "Text": {
+    "Default": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-80}",
+      "type": "color"
+    },
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-60}",
+      "type": "color"
+    },
+    "Error-Default": {
+      "value": "{Feedbacks.Error-50}",
+      "type": "color"
+    },
+    "Error-Subdued": {
+      "value": "{Feedbacks.Error-80}",
+      "type": "color"
+    },
+    "Warning-Default": {
+      "value": "{Feedbacks.Warning-50}",
+      "type": "color"
+    },
+    "Warning-Subdued": {
+      "value": "{Feedbacks.Warning-80}",
+      "type": "color"
+    },
+    "Success-Default": {
+      "value": "{Feedbacks.Success-50}",
+      "type": "color"
+    },
+    "Success-Subdued": {
+      "value": "{Feedbacks.Success-80}",
+      "type": "color"
+    }
+  }
+}

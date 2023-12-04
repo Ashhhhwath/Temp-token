@@ -1,0 +1,206 @@
+{
+  "Spacing + Padding": {
+    "0": {
+      "value": "{Dimensions.0}",
+      "type": "dimension"
+    },
+    "1": {
+      "value": "{Dimensions.1}",
+      "type": "dimension"
+    },
+    "2": {
+      "value": "{Dimensions.2}",
+      "type": "dimension"
+    },
+    "4": {
+      "value": "{Dimensions.4}",
+      "type": "dimension"
+    },
+    "8": {
+      "value": "{Dimensions.8}",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "{Dimensions.12}",
+      "type": "dimension"
+    },
+    "16": {
+      "value": "{Dimensions.16}",
+      "type": "dimension"
+    },
+    "24": {
+      "value": "{Dimensions.24}",
+      "type": "dimension"
+    },
+    "32": {
+      "value": "{Dimensions.32}",
+      "type": "dimension"
+    },
+    "40": {
+      "value": "{Dimensions.40}",
+      "type": "dimension"
+    },
+    "48": {
+      "value": "{Dimensions.48}",
+      "type": "dimension"
+    },
+    "64": {
+      "value": "{Dimensions.64}",
+      "type": "dimension"
+    },
+    "80": {
+      "value": "{Dimensions.80}",
+      "type": "dimension"
+    }
+  },
+  "BorderRadius": {
+    "Core": {
+      "0": {
+        "value": "{Dimensions.0}",
+        "type": "dimension"
+      },
+      "4": {
+        "value": "{Dimensions.4}",
+        "type": "dimension"
+      },
+      "8": {
+        "value": "{Dimensions.8}",
+        "type": "dimension"
+      },
+      "12": {
+        "value": "{Dimensions.12}",
+        "type": "dimension"
+      },
+      "16": {
+        "value": "{Dimensions.16}",
+        "type": "dimension"
+      },
+      "24": {
+        "value": "{Dimensions.24}",
+        "type": "dimension"
+      },
+      "32": {
+        "value": "{Dimensions.32}",
+        "type": "dimension"
+      },
+      "full": {
+        "value": "{Dimensions.Full}",
+        "type": "dimension"
+      }
+    },
+    "Component": {
+      "Button": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Badge": {
+        "value": "{BorderRadius.Core.4}",
+        "type": "dimension"
+      },
+      "Bottom Sheet": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Card": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Pagination dots": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Input field": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Input dropdown": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Input date": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Bulk import": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Media Upload-1": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Media Upload-2": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Media upload-3": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Modal": {
+        "value": "{BorderRadius.Core.32}",
+        "type": "dimension"
+      },
+      "Notification-1": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Notification-2": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Notification-3": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Navigation menu": {
+        "value": "{BorderRadius.Core.4}",
+        "type": "dimension"
+      },
+      "Search list": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Search trigger": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Selector": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Scrollbar": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Checkbox": {
+        "value": "{BorderRadius.Core.4}",
+        "type": "dimension"
+      },
+      "Dropdown menu": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Stepper": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Pagination page selector": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Pagination input": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Tag": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Tool tip": {
+        "value": "{BorderRadius.Core.8}",
+        "type": "dimension"
+      }
+    }
+  }
+}

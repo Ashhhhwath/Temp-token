@@ -1,0 +1,60 @@
+{
+  "Dimensions": {
+    "0": {
+      "value": "0 px",
+      "type": "dimension"
+    },
+    "1": {
+      "value": "1 px",
+      "type": "dimension"
+    },
+    "2": {
+      "value": "2 px",
+      "type": "dimension"
+    },
+    "4": {
+      "value": "4 px",
+      "type": "dimension"
+    },
+    "8": {
+      "value": "8 px",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "12 px",
+      "type": "dimension"
+    },
+    "16": {
+      "value": "16 px",
+      "type": "dimension"
+    },
+    "24": {
+      "value": "24 px",
+      "type": "dimension"
+    },
+    "32": {
+      "value": "32 px",
+      "type": "dimension"
+    },
+    "40": {
+      "value": "40 px",
+      "type": "dimension"
+    },
+    "48": {
+      "value": "48 px",
+      "type": "dimension"
+    },
+    "64": {
+      "value": "64 px",
+      "type": "dimension"
+    },
+    "80": {
+      "value": "80 px",
+      "type": "dimension"
+    },
+    "Full": {
+      "value": "250 px",
+      "type": "dimension"
+    }
+  }
+}

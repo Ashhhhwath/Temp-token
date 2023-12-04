@@ -1,0 +1,492 @@
+{
+  "Background": {
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-10}",
+      "type": "color"
+    },
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-20}",
+      "type": "color"
+    },
+    "Default": {
+      "value": "{Neutrals.Grey-0}",
+      "type": "color"
+    }
+  },
+  "Surface": {
+    "Default": {
+      "value": "{Neutrals.Grey-0}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-10}",
+      "type": "color"
+    },
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-20}",
+      "type": "color"
+    },
+    "Default-Hovered": {
+      "value": "{Neutrals.Grey-20}",
+      "type": "color"
+    },
+    "Subdued-1-Hovered": {
+      "value": "{Neutrals.Grey-20}",
+      "type": "color"
+    },
+    "Subdued-2-Hovered": {
+      "value": "{Neutrals.Grey-40}",
+      "type": "color"
+    }
+  },
+  "Surface Selected": {
+    "Default": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Subdued": {
+      "value": "{Primary.20}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Primary.50}",
+      "type": "color"
+    }
+  },
+  "Surface Warning": {
+    "Default": {
+      "value": "{Feedbacks.Warning-20}",
+      "type": "color",
+      "description": "Use for badges"
+    }
+  },
+  "Surface Error": {
+    "Default": {
+      "value": "{Feedbacks.Error-20}",
+      "type": "color"
+    }
+  },
+  "Surface Success": {
+    "Default": {
+      "value": "{Feedbacks.Success-20}",
+      "type": "color",
+      "description": "S: 40, L: 89.9"
+    }
+  },
+  "Surface Primary": {
+    "Default": {
+      "value": "{Primary.10}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Primary.20}",
+      "type": "color"
+    },
+    "Hovered": {
+      "value": "{Primary.30}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Primary.50}",
+      "type": "color"
+    }
+  },
+  "Surface Secondary": {
+    "Default": {
+      "value": "{Secondary.10}",
+      "type": "color"
+    },
+    "Subdued": {
+      "value": "{Secondary.20}",
+      "type": "color"
+    },
+    "Hovered": {
+      "value": "{Secondary.30}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Secondary.50}",
+      "type": "color"
+    }
+  },
+  "Surface Sparkle": {
+    "Default": {
+      "value": "{Sparkle.10}",
+      "type": "color"
+    },
+    "Subdued": {
+      "value": "{Sparkle.20}",
+      "type": "color"
+    },
+    "Hovered": {
+      "value": "{Sparkle.30}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Sparkle.50}",
+      "type": "color"
+    }
+  },
+  "Text": {
+    "Default": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-80}",
+      "type": "color"
+    },
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-60}",
+      "type": "color"
+    },
+    "Error-Default": {
+      "value": "{Feedbacks.Error-50}",
+      "type": "color"
+    },
+    "Error-Subdued": {
+      "value": "{Feedbacks.Error-80}",
+      "type": "color"
+    },
+    "Warning-Default": {
+      "value": "{Feedbacks.Warning-50}",
+      "type": "color"
+    },
+    "Warning-Subdued": {
+      "value": "{Feedbacks.Warning-80}",
+      "type": "color"
+    },
+    "Success-Default": {
+      "value": "{Feedbacks.Success-50}",
+      "type": "color"
+    },
+    "Success-Subdued": {
+      "value": "{Feedbacks.Success-80}",
+      "type": "color"
+    }
+  },
+  "Text On": {
+    "Primary": {
+      "value": "{Primary.Inverse}",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "{Secondary.Inverse}",
+      "type": "color"
+    },
+    "Sparkle": {
+      "value": "{Sparkle.Inverse}",
+      "type": "color"
+    },
+    "Interactive": {
+      "value": "{Neutrals.White}",
+      "type": "color"
+    }
+  },
+  "Text Primary": {
+    "Default": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Primary.60}",
+      "type": "color"
+    },
+    "Default-Hovered": {
+      "value": "{Primary.40}",
+      "type": "color"
+    },
+    "Subdued-1-Hovered": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Primary.80}",
+      "type": "color"
+    }
+  },
+  "Icon": {
+    "Default": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Neutrals.Grey-80}",
+      "type": "color"
+    },
+    "Subdued-2": {
+      "value": "{Neutrals.Grey-60}",
+      "type": "color"
+    },
+    "Error-Default": {
+      "value": "{Feedbacks.Error-50}",
+      "type": "color"
+    },
+    "Error-Subdued": {
+      "value": "{Feedbacks.Error-80}",
+      "type": "color"
+    },
+    "Warning-Default": {
+      "value": "{Feedbacks.Warning-50}",
+      "type": "color"
+    },
+    "Warning-Subdued": {
+      "value": "{Feedbacks.Warning-80}",
+      "type": "color"
+    },
+    "Success-Default": {
+      "value": "{Feedbacks.Success-50}",
+      "type": "color"
+    },
+    "Success-Subdued": {
+      "value": "{Feedbacks.Success-80}",
+      "type": "color"
+    }
+  },
+  "Icon On": {
+    "Feedbacks": {
+      "value": "{Neutrals.White}",
+      "type": "color"
+    },
+    "Primary": {
+      "value": "{Primary.Inverse}",
+      "type": "color"
+    },
+    "Secondary": {
+      "value": "{Secondary.Inverse}",
+      "type": "color"
+    },
+    "Sparkle": {
+      "value": "{Sparkle.Inverse}",
+      "type": "color"
+    }
+  },
+  "Icon Primary": {
+    "Default": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Primary.60}",
+      "type": "color"
+    },
+    "Default-Hovered": {
+      "value": "{Primary.40}",
+      "type": "color"
+    },
+    "Subdued-1-Hovered": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Primary.80}",
+      "type": "color"
+    }
+  },
+  "Icon Other": {
+    "Secondary Default": {
+      "value": "{Secondary.50}",
+      "type": "color"
+    },
+    "Secondary Subdued": {
+      "value": "{Secondary.60}",
+      "type": "color"
+    },
+    "Sparkle Default": {
+      "value": "{Sparkle.50}",
+      "type": "color"
+    },
+    "Sparkle Subdued": {
+      "value": "{Sparkle.60}",
+      "type": "color"
+    }
+  },
+  "Interactive": {
+    "Default": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Subdued": {
+      "value": "{Primary.60}",
+      "type": "color"
+    },
+    "Default-Hovered": {
+      "value": "{Primary.40}",
+      "type": "color"
+    },
+    "Subdued-Hovered": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Default-Pressed": {
+      "value": "{Primary.60}",
+      "type": "color"
+    },
+    "Subdued-Pressed": {
+      "value": "{Primary.70}",
+      "type": "color"
+    },
+    "Error": {
+      "value": "{Feedbacks.Error-50}",
+      "type": "color"
+    },
+    "Error-Hovered": {
+      "value": "{Feedbacks.Error-80}",
+      "type": "color"
+    },
+    "Error-Pressed": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "Success": {
+      "value": "{Feedbacks.Success-50}",
+      "type": "color"
+    },
+    "Success-Hovered": {
+      "value": "{Feedbacks.Success-80}",
+      "type": "color"
+    },
+    "Success-Pressed": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "Warning": {
+      "value": "{Feedbacks.Warning-50}",
+      "type": "color"
+    },
+    "Warning-Hovered": {
+      "value": "{Feedbacks.Warning-80}",
+      "type": "color"
+    },
+    "Warning-Pressed": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    }
+  },
+  "Border": {
+    "Default": {
+      "value": "{Neutrals.Grey-60}",
+      "type": "color",
+      "description": "3:1 AA Contrast required"
+    },
+    "Subdued": {
+      "value": "{Neutrals.Grey-40}",
+      "type": "color"
+    }
+  },
+  "Border Error": {
+    "Default": {
+      "value": "{Feedbacks.Error-50}",
+      "type": "color"
+    }
+  },
+  "Border Warning": {
+    "Default": {
+      "value": "{Feedbacks.Warning-50}",
+      "type": "color"
+    }
+  },
+  "Border Success": {
+    "Default": {
+      "value": "{Feedbacks.Success-50}",
+      "type": "color"
+    }
+  },
+  "Border Primary": {
+    "Default": {
+      "value": "{Primary.30}",
+      "type": "color",
+      "description": "3:1 AA Contrast required"
+    },
+    "Subdued-1": {
+      "value": "{Primary.40}",
+      "type": "color"
+    }
+  },
+  "Focused": {
+    "Default": {
+      "value": "{Primary.60}",
+      "type": "color"
+    },
+    "Subdued-1": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Subdued-2": {
+      "value": "{Primary.70}",
+      "type": "color"
+    },
+    "Subdued-3": {
+      "value": "{Primary.80}",
+      "type": "color"
+    }
+  },
+  "Action Secondary": {
+    "Default": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Hovered": {
+      "value": "#f6f6f7",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "#f1f2f3",
+      "type": "color"
+    },
+    "Depressed": {
+      "value": "#6d7175",
+      "type": "color"
+    },
+    "Disabled": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
+  "Action Primary": {
+    "Default": {
+      "value": "{Primary.50}",
+      "type": "color"
+    },
+    "Hovered": {
+      "value": "{Primary.30}",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "{Action Primary.Default}",
+      "type": "color"
+    }
+  },
+  "Action Critical": {
+    "Default": {
+      "value": "#d82c0d",
+      "type": "color"
+    },
+    "Hovered": {
+      "value": "#bc2200",
+      "type": "color"
+    },
+    "Pressed": {
+      "value": "#a21b00",
+      "type": "color"
+    },
+    "Depressed": {
+      "value": "#6c0f00",
+      "type": "color"
+    },
+    "Disabled": {
+      "value": "#f1f1f1",
+      "type": "color"
+    }
+  },
+  "Other": {
+    "Overlay": {
+      "value": "{Neutrals.Grey-80}",
+      "type": "color"
+    },
+    "Divider": {
+      "value": "{Neutrals.Grey-40}",
+      "type": "color"
+    }
+  }
+}

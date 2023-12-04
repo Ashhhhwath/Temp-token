@@ -1,0 +1,20 @@
+{
+  "tokenSetOrder": [
+    "Global/Jio Palette/Light",
+    "Global/Jio Palette/Dark",
+    "Global/Jio Palette/Bold (Not updated)",
+    "Global/Jio Neutrals/Light",
+    "Global/Jio Neutrals/Dark",
+    "Global/Jio Feedback/Light",
+    "Global/Jio Feedback/Dark",
+    "Global/Typography/All Language",
+    "Global/Jio Dimensions/Values",
+    "Global/Effects/Styles",
+    "Theme/1° + 2° + 3 °/FP Base",
+    "Theme/Other Colors/Neutrals",
+    "Theme/Other Colors/Feedbacks",
+    "Theme/Other Colors/Semantics",
+    "Theme/Dimensions/Values",
+    "Semantic { II }/Theme Color (WIP)"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Feedbacks": {
+    "Success-80": {
+      "value": "#e9f7e9",
+      "type": "color"
+    },
+    "Success-50": {
+      "value": "#25ab21",
+      "type": "color"
+    },
+    "Success-20": {
+      "value": "#135610",
+      "type": "color"
+    },
+    "Warning-80": {
+      "value": "#fef0e7",
+      "type": "color"
+    },
+    "Warning-50": {
+      "value": "#f06d0f",
+      "type": "color"
+    },
+    "Warning-20": {
+      "value": "#7d2f08",
+      "type": "color"
+    },
+    "Error-80": {
+      "value": "#fee6ea",
+      "type": "color"
+    },
+    "Error-50": {
+      "value": "#f50031",
+      "type": "color"
+    },
+    "Error-20": {
+      "value": "#660014",
+      "type": "color"
+    }
+  }
+}

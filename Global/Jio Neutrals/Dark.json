@@ -1,0 +1,40 @@
+{
+  "Neutrals": {
+    "White": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Grey-0": {
+      "value": "{Neutrals.Black}",
+      "type": "color"
+    },
+    "Grey-10": {
+      "value": "#1F1F1F",
+      "type": "color"
+    },
+    "Grey-20": {
+      "value": "#2b2b2b",
+      "type": "color"
+    },
+    "Grey-40": {
+      "value": "#5a5a5a",
+      "type": "color"
+    },
+    "Grey-60": {
+      "value": "#a1a1a1",
+      "type": "color"
+    },
+    "Grey-80": {
+      "value": "#ffffffc7",
+      "type": "color"
+    },
+    "Grey-100": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Black": {
+      "value": "#141414",
+      "type": "color"
+    }
+  }
+}
