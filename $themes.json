@@ -942,7 +942,10 @@
       "BorderRadius.Component.Pagination dots": "6006bdbdce826bd3bd15fc736fae0f04f1cca494",
       "BorderRadius.Component.Input field L": "0b59681b8bb7a6c52a2f3e75d406a859beeaeec6",
       "BorderRadius.Component.Input field S": "c54f6914aa33bc359931fa82450ed21aa3ef9026",
-      "BorderRadius.Component.Input date": "cdd6a5ddb54a5d44d9d081fe701283b64116ae42",
+      "BorderRadius.Component.Input dropdown L": "1ddf9ffeb856cd8cced2490ef616d62ad3c4dd8e",
+      "BorderRadius.Component.Input dropdown S": "a944c71407684feb2270e6817c19239ad0127d49",
+      "BorderRadius.Component.Input date L": "cdd6a5ddb54a5d44d9d081fe701283b64116ae42",
+      "BorderRadius.Component.Input date S": "82143c54d92f96360853aa8a8058da726d159107",
       "BorderRadius.Component.Bulk import": "96f268d6854be8470c66f61c4ddf6c47ebd8334f",
       "BorderRadius.Component.Media Upload-1": "fdee79a18bea20efde7a5f60adc536db06f0d337",
       "BorderRadius.Component.Media Upload-2": "946b4d5b3fe7069ddc87134ca406efbfad10569a",
@@ -952,13 +955,13 @@
       "BorderRadius.Component.Notification-2": "55ec880b29429fb907912497e53b6e7cc7203722",
       "BorderRadius.Component.Notification-3": "abf0968420a29c0854f4d477223dc5a358670d95",
       "BorderRadius.Component.Navigation menu": "4a3fe48cbd7223874aceaef21b99a9bf14c42c9e",
-      "BorderRadius.Component.Search list": "e47ffa5fcec817b29d56427a2c826ed2a99b0885",
       "BorderRadius.Component.Search trigger L": "51d23c25a232e86afca6bffcee3853c441b1eed4",
       "BorderRadius.Component.Search trigger S": "f78152fdfce4120a821bc274429d7802ae3a55b5",
       "BorderRadius.Component.Selector": "4b7f87ecca454171218a3691a03ab0dfb3c1e24b",
       "BorderRadius.Component.Scrollbar": "a04fcaf3fd365f9a4450e12008979dd449d7464a",
       "BorderRadius.Component.Checkbox": "8a1f3d6d7e57af9a890c8fa5a4bb6fba886fd428",
-      "BorderRadius.Component.Dropdown menu": "7118b0304852b0a927a363ccbd49898ce0c9d40e",
+      "BorderRadius.Component.Dropdown menu L": "7118b0304852b0a927a363ccbd49898ce0c9d40e",
+      "BorderRadius.Component.Dropdown menu S": "e5a5edb9217c53a9aff061670d3478a5c3908eff",
       "BorderRadius.Component.Stepper": "8dccc28afd4f1980459329fdef1dbc1d2e9ba668",
       "BorderRadius.Component.Pagination page selector": "a39130984862084a1202b27976df2705aacaa3ca",
       "BorderRadius.Component.Pagination input": "366f401ab99ac94f689cba4de0bbb39424056d5b",
@@ -1021,7 +1024,7 @@
       "Sparkle.70": "ea4f68d62f86fa0fc844a94f2c2e7c8b2133bf73",
       "Sparkle.80": "2a42fbf3405c8c97b3faecef2bf22207e6d3aab4",
       "Sparkle.Inverse": "fd9a8b02b7659e275739944cd40542a82c33c175",
-      "BorderRadius.Component.Input dropdown L": "1ddf9ffeb856cd8cced2490ef616d62ad3c4dd8e"
+      "BorderRadius.Component.Search list L": "e47ffa5fcec817b29d56427a2c826ed2a99b0885"
     },
     "group": "Products"
   }

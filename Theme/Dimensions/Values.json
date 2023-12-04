@@ -125,8 +125,12 @@
         "value": "{BorderRadius.Core.8}",
         "type": "dimension"
       },
-      "Input date": {
-        "value": "{BorderRadius.Core.16}",
+      "Input date L": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Input date S": {
+        "value": "{BorderRadius.Core.8}",
         "type": "dimension"
       },
       "Bulk import": {
@@ -165,8 +169,12 @@
         "value": "{BorderRadius.Core.4}",
         "type": "dimension"
       },
-      "Search list": {
-        "value": "{BorderRadius.Core.24}",
+      "Search list L": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Search list S": {
+        "value": "{BorderRadius.Core.12}",
         "type": "dimension"
       },
       "Search trigger L": {
@@ -189,8 +197,12 @@
         "value": "{BorderRadius.Core.4}",
         "type": "dimension"
       },
-      "Dropdown menu": {
-        "value": "{BorderRadius.Core.24}",
+      "Dropdown menu L": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Dropdown menu S": {
+        "value": "{BorderRadius.Core.12}",
         "type": "dimension"
       },
       "Stepper": {
