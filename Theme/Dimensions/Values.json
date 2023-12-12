@@ -97,7 +97,7 @@
         "value": "{BorderRadius.Core.4}",
         "type": "dimension"
       },
-      "Bottom Sheet": {
+      "Bottom Sheet Mobile": {
         "value": "{BorderRadius.Core.24}",
         "type": "dimension"
       },
@@ -149,8 +149,12 @@
         "value": "{BorderRadius.Core.24}",
         "type": "dimension"
       },
-      "Modal": {
-        "value": "{BorderRadius.Core.32}",
+      "Modal Mobile": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Modal Desktop": {
+        "value": "{BorderRadius.Core.16}",
         "type": "dimension"
       },
       "Notification-1": {
@@ -223,6 +227,14 @@
       },
       "Tool tip": {
         "value": "{BorderRadius.Core.8}",
+        "type": "dimension"
+      },
+      "Date picker S": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Date Picker L": {
+        "value": "{BorderRadius.Core.16}",
         "type": "dimension"
       }
     }
