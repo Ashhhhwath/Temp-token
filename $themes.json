@@ -4,11 +4,31 @@
     "name": "Numbers",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Global/Jio Dimensions/Values": "enabled"
+      "Global/Jio Dimensions/Values": "enabled",
+      "Our Themes/1° + 2° + 3 °/FP Base": "disabled",
+      "Our Themes/Other Colors/Neutrals": "disabled",
+      "Our Themes/Other Colors/Feedbacks": "disabled",
+      "Our Themes/Other Colors/Semantics": "disabled",
+      "Our Themes/Dimensions/Values": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:506:4380",
     "$figmaModeId": "506:0",
-    "$figmaVariableReferences": {},
+    "$figmaVariableReferences": {
+      "Dimensions.0": "8763d0a12e3f24884b5476ae78a8917afc48be19",
+      "Dimensions.1": "81881b4831f5cf44a739cea0c40cb0499f70fc9b",
+      "Dimensions.2": "c42c011b5e758b6b9f63570899035153119d05d4",
+      "Dimensions.4": "5cdb8f8c6d08ce95530ee0064ce0c2a3537fba11",
+      "Dimensions.8": "b0565d943d669eda7e7e0fcfeea713318d733b11",
+      "Dimensions.12": "87019fee5303a660641d2333ef55e4a4ad7be2cb",
+      "Dimensions.16": "1c7b494c2d47c7462521569f91feac7a09d4b429",
+      "Dimensions.24": "ce3097dc9e662d4409c136fe9e26043761c1c9f7",
+      "Dimensions.32": "3ddb6f79c91cc0240d2e4cc138238016c47025fb",
+      "Dimensions.40": "ac97f77015435559fb6ad5490f12eb50a427f5bb",
+      "Dimensions.48": "8cb4706113e5cdee542d07234bcf162da570518b",
+      "Dimensions.64": "6ab10f7bfeeee47f00f89cf85fb653575a27d8c9",
+      "Dimensions.80": "b1ba8c90068178bb35cbb9f1ed443e95486cc722",
+      "Dimensions.Full": "cef3136940e8a18043722b23b323499641be9b19"
+    },
     "group": "Core_Dimensions"
   },
   {
@@ -387,7 +407,12 @@
     "selectedTokenSets": {
       "Global/Jio Palette/Light": "enabled",
       "Global/Jio Neutrals/Light": "enabled",
-      "Global/Jio Feedback/Light": "enabled"
+      "Global/Jio Feedback/Light": "enabled",
+      "Our Themes/1° + 2° + 3 °/FP Base": "disabled",
+      "Our Themes/Other Colors/Neutrals": "disabled",
+      "Our Themes/Other Colors/Feedbacks": "disabled",
+      "Our Themes/Other Colors/Semantics": "disabled",
+      "Our Themes/Dimensions/Values": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:506:4395",
     "$figmaModeId": "506:1",
@@ -636,7 +661,12 @@
     "selectedTokenSets": {
       "Global/Jio Palette/Dark": "enabled",
       "Global/Jio Neutrals/Dark": "enabled",
-      "Global/Jio Feedback/Dark": "enabled"
+      "Global/Jio Feedback/Dark": "enabled",
+      "Our Themes/1° + 2° + 3 °/FP Base": "disabled",
+      "Our Themes/Other Colors/Neutrals": "disabled",
+      "Our Themes/Other Colors/Feedbacks": "disabled",
+      "Our Themes/Other Colors/Semantics": "disabled",
+      "Our Themes/Dimensions/Values": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:506:4395",
     "$figmaModeId": "506:2",
@@ -883,18 +913,18 @@
     "name": "FP",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Theme/1° + 2° + 3 °/FP Base": "enabled",
       "Global/Jio Palette/Light": "source",
       "Global/Jio Palette/Dark": "source",
       "Global/Jio Neutrals/Light": "source",
       "Global/Jio Neutrals/Dark": "source",
       "Global/Jio Feedback/Light": "source",
       "Global/Jio Feedback/Dark": "source",
-      "Theme/Other Colors/Neutrals": "enabled",
-      "Theme/Other Colors/Feedbacks": "enabled",
-      "Theme/Dimensions/Values": "enabled",
       "Global/Jio Dimensions/Values": "source",
-      "Theme/Other Colors/Semantics": "enabled"
+      "Our Themes/1° + 2° + 3 °/FP Base": "enabled",
+      "Our Themes/Other Colors/Neutrals": "enabled",
+      "Our Themes/Other Colors/Feedbacks": "enabled",
+      "Our Themes/Other Colors/Semantics": "enabled",
+      "Our Themes/Dimensions/Values": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:506:4630",
     "$figmaModeId": "506:3",
@@ -957,9 +987,6 @@
       "BorderRadius.Component.Tool tip": "112b94eef3856a8e2c75b5fafe1298249aa6a033",
       "BorderRadius.Component.Date picker S": "d5f8df55bae74fc14a7a08eb410151c26e836a2c",
       "BorderRadius.Component.Date Picker L": "b6a6e3b4474f59b4083221dc407592eea29cff80",
-      "Background.Default": "8407c0ea1350c85186494b8c25613fd539c3f4d6",
-      "Background.Subdued-1": "1134a2f97e6a11d34472dbc75af32f5fecf11953",
-      "Background.Subdued-2": "f22f87d485d7b3f7638119b9e6746fc126b13d02",
       "Text.Default": "5b2636baa84a104a4689697c38b7e54f44a1f0ec",
       "Text.Subdued-1": "ca5c178905e54268e10fe700668c480bf856c58e",
       "Text.Subdued-2": "463d35f3aae97a26661b5633ad5c481496e6fcf2",
@@ -986,7 +1013,6 @@
       "Neutral.Grey-100": "0d35e85b9843eb8397f27578e6641efa848d3f8f",
       "Neutral.White": "e2fb0e76d3fb41c18c5acd7f9ad6eb2edf0e38a3",
       "Neutral.Black": "0b8e9486d3f3bd5c04eb95c10546224ee2e9b39b",
-      "Trial": "d49989023b7295ea628a3c12fb8a731e88d04f4e",
       "Primary.10": "883e1f2f791242eb607c6820fbcf0abca4837bf6",
       "Primary.20": "3c9c1d39f8ad500b04ebadcbf56dd726aac941b9",
       "Primary.30": "efea1d5a687598b248527cf87f0ee9d365a54e96",
@@ -1013,7 +1039,10 @@
       "Sparkle.60": "45328a4c715fb7c4557d433dabcc412b5eb2f0c8",
       "Sparkle.70": "ea4f68d62f86fa0fc844a94f2c2e7c8b2133bf73",
       "Sparkle.80": "2a42fbf3405c8c97b3faecef2bf22207e6d3aab4",
-      "Sparkle.Inverse": "fd9a8b02b7659e275739944cd40542a82c33c175"
+      "Sparkle.Inverse": "fd9a8b02b7659e275739944cd40542a82c33c175",
+      "Background.Surface - 0": "8407c0ea1350c85186494b8c25613fd539c3f4d6",
+      "Background.Surface - 10": "1134a2f97e6a11d34472dbc75af32f5fecf11953",
+      "Background.Surface - 20": "f22f87d485d7b3f7638119b9e6746fc126b13d02"
     },
     "group": "Products"
   }

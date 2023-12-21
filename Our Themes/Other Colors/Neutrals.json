@@ -1,0 +1,36 @@
+{
+  "Neutral": {
+    "Grey-10": {
+      "value": "{Neutrals.Grey-10}",
+      "type": "color"
+    },
+    "Grey-20": {
+      "value": "{Neutrals.Grey-20}",
+      "type": "color"
+    },
+    "Grey-40": {
+      "value": "{Neutrals.Grey-40}",
+      "type": "color"
+    },
+    "Grey-60": {
+      "value": "{Neutrals.Grey-60}",
+      "type": "color"
+    },
+    "Grey-80": {
+      "value": "{Neutrals.Grey-80}",
+      "type": "color"
+    },
+    "Grey-100": {
+      "value": "{Neutrals.Grey-100}",
+      "type": "color"
+    },
+    "White": {
+      "value": "{Neutrals.White}",
+      "type": "color"
+    },
+    "Black": {
+      "value": "{Neutrals.Black}",
+      "type": "color"
+    }
+  }
+}

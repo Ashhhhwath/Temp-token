@@ -1,0 +1,242 @@
+{
+  "Spacing + Padding": {
+    "0": {
+      "value": "{Dimensions.0}",
+      "type": "dimension"
+    },
+    "1": {
+      "value": "{Dimensions.1}",
+      "type": "dimension"
+    },
+    "2": {
+      "value": "{Dimensions.2}",
+      "type": "dimension"
+    },
+    "4": {
+      "value": "{Dimensions.4}",
+      "type": "dimension"
+    },
+    "8": {
+      "value": "{Dimensions.8}",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "{Dimensions.12}",
+      "type": "dimension"
+    },
+    "16": {
+      "value": "{Dimensions.16}",
+      "type": "dimension"
+    },
+    "24": {
+      "value": "{Dimensions.24}",
+      "type": "dimension"
+    },
+    "32": {
+      "value": "{Dimensions.32}",
+      "type": "dimension"
+    },
+    "40": {
+      "value": "{Dimensions.40}",
+      "type": "dimension"
+    },
+    "48": {
+      "value": "{Dimensions.48}",
+      "type": "dimension"
+    },
+    "64": {
+      "value": "{Dimensions.64}",
+      "type": "dimension"
+    },
+    "80": {
+      "value": "{Dimensions.80}",
+      "type": "dimension"
+    }
+  },
+  "BorderRadius": {
+    "Core": {
+      "0": {
+        "value": "{Dimensions.0}",
+        "type": "dimension"
+      },
+      "4": {
+        "value": "{Dimensions.4}",
+        "type": "dimension"
+      },
+      "8": {
+        "value": "{Dimensions.8}",
+        "type": "dimension"
+      },
+      "12": {
+        "value": "{Dimensions.12}",
+        "type": "dimension"
+      },
+      "16": {
+        "value": "{Dimensions.16}",
+        "type": "dimension"
+      },
+      "24": {
+        "value": "{Dimensions.24}",
+        "type": "dimension"
+      },
+      "32": {
+        "value": "{Dimensions.32}",
+        "type": "dimension"
+      },
+      "full": {
+        "value": "{Dimensions.Full}",
+        "type": "dimension"
+      }
+    },
+    "Component": {
+      "Button": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Badge": {
+        "value": "{BorderRadius.Core.4}",
+        "type": "dimension"
+      },
+      "Bottom Sheet Mobile": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Card": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Pagination dots": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Input field L": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Input field S": {
+        "value": "{BorderRadius.Core.8}",
+        "type": "dimension"
+      },
+      "Input dropdown L": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Input dropdown S": {
+        "value": "{BorderRadius.Core.8}",
+        "type": "dimension"
+      },
+      "Input date L": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Input date S": {
+        "value": "{BorderRadius.Core.8}",
+        "type": "dimension"
+      },
+      "Bulk import": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Media Upload-1": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Media Upload-2": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Media upload-3": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Modal Mobile": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Modal Desktop": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Notification-1": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Notification-2": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Notification-3": {
+        "value": "{BorderRadius.Core.24}",
+        "type": "dimension"
+      },
+      "Navigation menu": {
+        "value": "{BorderRadius.Core.4}",
+        "type": "dimension"
+      },
+      "Search list L": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Search list S": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Search trigger L": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Search trigger S": {
+        "value": "{BorderRadius.Core.8}",
+        "type": "dimension"
+      },
+      "Selector": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Scrollbar": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Checkbox": {
+        "value": "{BorderRadius.Core.4}",
+        "type": "dimension"
+      },
+      "Dropdown menu L": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Dropdown menu S": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Stepper": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Pagination page selector": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      },
+      "Pagination input": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Tag": {
+        "value": "{BorderRadius.Core.full}",
+        "type": "dimension"
+      },
+      "Tool tip": {
+        "value": "{BorderRadius.Core.8}",
+        "type": "dimension"
+      },
+      "Date picker S": {
+        "value": "{BorderRadius.Core.12}",
+        "type": "dimension"
+      },
+      "Date Picker L": {
+        "value": "{BorderRadius.Core.16}",
+        "type": "dimension"
+      }
+    }
+  }
+}

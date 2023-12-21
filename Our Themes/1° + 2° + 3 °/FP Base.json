@@ -1,0 +1,116 @@
+{
+  "Primary": {
+    "10": {
+      "value": "{Navi.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Navi.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Navi.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Navi.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Navi.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Navi.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Navi.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Navi.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Navi.Inverse}",
+      "type": "color"
+    }
+  },
+  "Secondary": {
+    "10": {
+      "value": "{Marigold.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Marigold.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Marigold.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Marigold.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Marigold.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Marigold.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Marigold.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Marigold.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Marigold.Inverse}",
+      "type": "color"
+    }
+  },
+  "Sparkle": {
+    "10": {
+      "value": "{Mint.10}",
+      "type": "color"
+    },
+    "20": {
+      "value": "{Mint.20}",
+      "type": "color"
+    },
+    "30": {
+      "value": "{Mint.30}",
+      "type": "color"
+    },
+    "40": {
+      "value": "{Mint.40}",
+      "type": "color"
+    },
+    "50": {
+      "value": "{Mint.50}",
+      "type": "color"
+    },
+    "60": {
+      "value": "{Mint.60}",
+      "type": "color"
+    },
+    "70": {
+      "value": "{Mint.70}",
+      "type": "color"
+    },
+    "80": {
+      "value": "{Mint.80}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Mint.Inverse}",
+      "type": "color"
+    }
+  }
+}
